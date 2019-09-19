@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/perpetualmotion/static/css/main.338ab6d0.chunk.css",
+    "main.js": "/perpetualmotion/static/js/main.2a7d3efa.chunk.js",
+    "main.js.map": "/perpetualmotion/static/js/main.2a7d3efa.chunk.js.map",
+    "runtime~main.js": "/perpetualmotion/static/js/runtime~main.6e646e74.js",
+    "runtime~main.js.map": "/perpetualmotion/static/js/runtime~main.6e646e74.js.map",
+    "static/js/2.5efea958.chunk.js": "/perpetualmotion/static/js/2.5efea958.chunk.js",
+    "static/js/2.5efea958.chunk.js.map": "/perpetualmotion/static/js/2.5efea958.chunk.js.map",
+    "index.html": "/perpetualmotion/index.html",
+    "precache-manifest.07ffb892d697559b2248fbbb62518d38.js": "/perpetualmotion/precache-manifest.07ffb892d697559b2248fbbb62518d38.js",
+    "service-worker.js": "/perpetualmotion/service-worker.js",
+    "static/css/main.338ab6d0.chunk.css.map": "/perpetualmotion/static/css/main.338ab6d0.chunk.css.map"
+  }
+}
